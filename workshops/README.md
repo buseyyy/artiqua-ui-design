@@ -5,6 +5,7 @@ Bu sayfa, düzenlenecek sanat eğitimlerine ve atölyelerine dair bilgi sunar.
 - Eğitim başlığı ve mekan bilgisi
 - Atölye tarihleri ve kısa açıklamalar
 - Katılım buton fikriyle yapılandırılmış kart yapısı
+- Filtreleme ve kategorilere göre gezinti fikrine uygun arayüz
 
 
 ## 📸 Ekran Resmi
