@@ -21,6 +21,6 @@ Bu proje, tasarım portföyümde yer alması amacıyla hazırlanmıştır. Kodla
 - Figma
 
 
-
+## Not
 🖼️ Tasarımlar görsel olarak klasörler içinde yer almaktadır.
 
