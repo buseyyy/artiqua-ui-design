@@ -1,10 +1,13 @@
+# 🏠 Ana Sayfa
 
-# 🏠 Homepage
+Ana sayfa, ziyaretçileri karşılayan ilk izlenimi oluşturan bölümdür. Burada site hakkında kısa bir tanıtım, öne çıkan sanat eserleri ve yönlendirme butonları yer almaktadır.
 
-The landing page of Artiqua includes highlights, navigation bar, and quick access to all main sections.
+- Özgün bir karşılama mesajı
+- Minimalist ve modern tasarım çizgileri
+- Hızlı yönlendirme için net menü yapısı
 
----
 
-## 📸 Screenshot
+
+## 📸 Ekran Resmi
 
 ![Homepage](https://github.com/user-attachments/assets/964e4c6c-aecf-4d63-9beb-9f87b427387c)
